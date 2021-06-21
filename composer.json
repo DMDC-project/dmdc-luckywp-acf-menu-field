@@ -1,9 +1,9 @@
 {
-    "name": "manhtq/advanced-custom-fields-pro",
+    "name": "manhtq/dmdc-luckywp-acf-menu-field",
     "type": "wordpress-plugin",
     "description": "",
     "keywords": ["wordpress", "plugin"],
-    "homepage": "https://github.com/manh-trinhquoc/Advanced-Custom-Fields-PRO",
+    "homepage": "https://github.com/manh-trinhquoc/dmdc-luckywp-acf-menu-field",
     "authors": [{
         "name": "manhtq",
         "homepage": "https://github.com/manh-trinhquoc"
